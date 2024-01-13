@@ -220,6 +220,7 @@ export default function Home() {
                 dayName = dayName.split(",")[0];
                 return (
                   <View
+                    key={item} 
                     className=" flex  justify-center items-center w-24 rounded-3xl py-3 space-y-1 mr-4"
                     style={{ backgroundColor: theme.bgWhite(0.15) }}
                   >
