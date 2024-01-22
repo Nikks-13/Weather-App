@@ -1,5 +1,10 @@
 
 ## Simple Weather App Build Using React-Native
+
+![App Screenshot](https://raw.githubusercontent.com/Nikks-13/Just_Snaxx_App/main/screenshot/home.png)
+
+## Desc 
+A Simple weather app using React Native, incorporating real-time weather data from a reliable API. One of the key features of the app is the seamless integration of async storage, allowing users to effortlessly save and retrieve last searched location weather . The app provides an intuitive and user-friendly interface, ensuring a smooth and enjoyable experience for users seeking accurate and up-to-date weather information.
 ## Run My project Locally
 
 Clone the project
